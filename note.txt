@@ -1,0 +1,10 @@
+polymorphism, sbg sesuatu yang memiliki banyak bentuk
+membuat method dalam 1 class yang sama di bolehkan, asal parameter atau segi tipe pengembalian( void/int/dll) berbeda
+
+encapsulation, cara membungkus data dan method yang menyusun kelas dan menyembunyikan dari dunia luar ( private )
+dalam konsep encapsulation, tidak di bolehkan pemanggilan di luar 
+( contoh : a.Nama )
+
+tetapi dengan
+a.setNama("ADI")
+a.getNama()

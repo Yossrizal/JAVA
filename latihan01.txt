@@ -1,0 +1,9 @@
+masukan
+
+nama
+uts
+uas
+nilai akhir = (uts+uas)/2
+
+tugas minggu depan
+1. cari penerapan untuk method yang bertipe kembalian berupa array
